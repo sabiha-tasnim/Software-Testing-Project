@@ -6,5 +6,5 @@ In this repository, manual testing projects, test cases, test plans, bug reports
 * Bug Report
 * Test Reports
 * Test Metrics
-## Project 1:
-## Project 2:
+## Project 1
+## Project 2
